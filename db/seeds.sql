@@ -3,3 +3,8 @@ INSERT INTO burgers (burger_name, devoured) VALUES ('4x4 with Animal Style', fal
 INSERT INTO burgers (burger_name, devoured) VALUES ('Chic Filla Chicken Sandwich', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Bison Burger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Chicken Fried Steak Mushroom Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Pulled Pork Sandwich', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chili Cheese Footlong Frank', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Classic Big Mac', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Surf & Turf Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Grilled Pineapple Burger', false);
