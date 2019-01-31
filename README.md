@@ -1,15 +1,18 @@
 # Burger
 
+![Screenshot](public/img/screenshot.png)
+
 <div>
-Overview
+
+### Overview
 
 In this project we were asked to create a Burger app that used Express and Handlebars. Below are the instructions on how I built the app as well as the instructions on how to run it.
 
 
-Instructions:
+### Instructions
 
 
-App Setup
+### App Setup
 
 
 Create a GitHub repo called burger and clone it to your computer.
@@ -30,7 +33,7 @@ body-parser
 
 
 
-DB Setup
+### DB Setup
 
 
 Inside your burger directory, create a folder named db.
@@ -68,7 +71,7 @@ Close out of the MySQL command line tool: exit.
 
 
 
-Config Setup
+### Config Setup
 
 
 Inside your burger directory, create a folder named config.
@@ -99,7 +102,7 @@ Export the ORM object in module.exports.
 
 
 
-Model setup
+### Model setup
 
 
 
@@ -116,7 +119,7 @@ Export at the end of the burger.js file.
 
 
 
-Controller setup
+### Controller setup
 
 
 Inside your burger directory, create a folder named controllers.
@@ -134,7 +137,7 @@ Create the router for the app, and export the router at the end of your file.
 
 
 
-View setup
+### View setup
 
 
 Inside your burger directory, create a folder named views.
@@ -155,7 +158,7 @@ Create a button in index.handlebars that will submit the user input into the dat
 
 
 
-Directory structure
+### Directory structure
 
 All the recommended files and directories from the steps above should look like the following structure:
 
@@ -193,13 +196,11 @@ All the recommended files and directories from the steps above should look like 
     └── layouts
         └── main.handlebars
 
-Reminder: Submission on BCS
 
 
-Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
 
 
-How to run:
+### How to run
 
 In your terminal you will need to cd to the file/folder
 
@@ -211,9 +212,9 @@ $ npm install express-handlebars
 $ npm install body-parser
 $ npm start
 
-```
 
-### Languages Used:
+
+### Languages Used
 
 ```css
 
